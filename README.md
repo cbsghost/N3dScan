@@ -5,6 +5,7 @@ This version is one of my independent studies. The code may not easy to understa
 
 ### Demo Reel
 There is a demo video for the project.
+
 [![NXT 3D Scanner (N3dScan) - Demo Reel](http://img.youtube.com/vi/g6dGGE-Eptw/0.jpg)](http://www.youtube.com/watch?v=g6dGGE-Eptw "NXT 3D Scanner (N3dScan) - Demo Reel")
 
 ### How to use
@@ -26,7 +27,7 @@ Contact me if you having problems of the projects.
 
 ### Todos
  - Rewrite the code to module-by-module.
- - Optimized the stablility of each task, especilly GUI.
+ - Optimized the stablility of each task, especially GUI.
  - Find out the crash problem during booting while pressing the buttons.
  - Figure out the Bluetooth bug in the nxtOSEK core.
 
