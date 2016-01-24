@@ -1,1 +1,1 @@
-Well, there're just some school report. It is useful if you want to rebuild the whole hardware.
+Well, there're just some school reports. It is useful if you want to rebuild the whole hardware.
